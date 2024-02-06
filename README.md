@@ -30,10 +30,12 @@ This application uses MongoDB Atlas as the database. Follow the steps below to s
 1. Sign up for a MongoDB Atlas account at [https://www.mongodb.com/cloud/atlas](https://www.mongodb.com/cloud/atlas).
 2. Create a new cluster and configure the necessary settings.
 3. Obtain your MongoDB connection string.
+``` JavaScript
 export const environment = {
     production: false,
     mongoURI: 'mongodb+srv://<username>:<password>@cluster0.mongodb.net/posts-app?retryWrites=true&w=majority'
 };
+```
 
 ## Code Scaffolding
 
