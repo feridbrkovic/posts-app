@@ -2,12 +2,6 @@
 
 This is an Angular application that allows users to create, read, update, and delete posts. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
-## Getting Started
-
-# Project
-
-This project is an Angular application generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
-
 ## Description
 
 The Posts App is a web application built with Angular that allows users to create, read, update, and delete posts. It provides a user-friendly interface for managing posts and interacting with the data.
