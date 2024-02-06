@@ -1,4 +1,4 @@
-# Project
+# Simple posts app project (MEAN stack)
 
 This project is an Angular application generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
