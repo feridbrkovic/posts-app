@@ -1,11 +1,5 @@
 # Simple posts app project (MEAN stack)
 
-This project is an Angular application generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
-
-## Development server
-
-# Posts App
-
 This is an Angular application that allows users to create, read, update, and delete posts. It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.0.
 
 ## Getting Started
